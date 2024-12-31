@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/prog-project/static/css/main.cb142527.css",
+    "main.js": "/prog-project/static/js/main.c77c2e81.js",
+    "static/media/A3.png": "/prog-project/static/media/A3.2a612bd1e6d8250e08a1.png",
+    "static/media/A2.png": "/prog-project/static/media/A2.9f02c3442813b97d5df6.png",
+    "static/media/A1.png": "/prog-project/static/media/A1.fd5aff9282adcb85bacf.png",
+    "static/media/whywestartedphoto.png": "/prog-project/static/media/whywestartedphoto.146b2eb0518835141fd9.png",
+    "static/media/TopPostImg.png": "/prog-project/static/media/TopPostImg.9ebd411c6a94258be8fc.png",
+    "static/media/fpostImg.png": "/prog-project/static/media/fpostImg.428edb210673deb5dcee.png",
+    "static/media/avatar-placeholder.png": "/prog-project/static/media/avatar-placeholder.aad292b1c3d9c7153a84.png",
+    "static/media/Logo 4.svg": "/prog-project/static/media/Logo 4.91f6f635a81f7a9e87c29fe347b7c90f.svg",
+    "static/media/Logo 1.svg": "/prog-project/static/media/Logo 1.09085ebf682440cd12e47b629a31f42d.svg",
+    "static/media/Logo 2.svg": "/prog-project/static/media/Logo 2.d1c2fed6bf4f528a070419c6f47323a7.svg",
+    "static/media/Logo 3.svg": "/prog-project/static/media/Logo 3.40fcfd60462a6c7808cc2831e0a688da.svg",
+    "static/media/Logo 5.svg": "/prog-project/static/media/Logo 5.a6e4229577079ce466296aafb53fc8c1.svg",
+    "static/media/Logo.svg": "/prog-project/static/media/Logo.b8b4ba5329f49c422778245f6b0b0c23.svg",
+    "static/media/Startup.svg": "/prog-project/static/media/Startup.a8018213598829a6cc42d0e2457490d1.svg",
+    "static/media/Negative1.svg": "/prog-project/static/media/Negative1.b73c33699bd12268918a6737775ca40a.svg",
+    "static/media/Negative.svg": "/prog-project/static/media/Negative.8b369585c2f899889ef36c2fdc020dce.svg",
+    "static/media/Business.svg": "/prog-project/static/media/Business.6b584851c2bb5c28755a6d86d3afcf29.svg",
+    "static/media/Economy.svg": "/prog-project/static/media/Economy.da68e5aac5215e86e5a6690a9693be56.svg",
+    "static/media/Technology.svg": "/prog-project/static/media/Technology.25ea041504a3b47fb4ba70fe3760f897.svg",
+    "static/media/prev_button.svg": "/prog-project/static/media/prev_button.7b1566f0ade872667bbe284a39d4f311.svg",
+    "index.html": "/prog-project/index.html",
+    "static/media/next_button.svg": "/prog-project/static/media/next_button.5cc52e1c07f35be986ca30dab2ef4f4e.svg",
+    "main.cb142527.css.map": "/prog-project/static/css/main.cb142527.css.map",
+    "main.c77c2e81.js.map": "/prog-project/static/js/main.c77c2e81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb142527.css",
+    "static/js/main.c77c2e81.js"
+  ]
+}
